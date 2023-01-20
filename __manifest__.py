@@ -9,7 +9,7 @@
     'website': 'https://www.odootest.com',
     'depends': [],
     'data': [
-        'security/ir.module.access.csv',
+        'security/ir.model.access.csv',
         'views/patient.xml'
     ],
     'demo': [],
